@@ -1,0 +1,49 @@
+
+body {
+    font-family:serif
+    }
+
+ nav {
+        margin: 2em
+    }
+
+a {
+    color:dimgray
+}
+
+li {
+    display: inline;
+    padding: .3em
+}
+
+.main-title {
+    color: red
+}
+
+article h2 {
+    color:dimgrey
+}
+
+.first-p {
+    color:dimgrey
+}
+
+.first-p:first-letter {
+    float:left;
+    font-size: 70px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px
+}
+
+.continue {
+  color:red
+}
+
+.footer-ul {
+    color:red
+}
+
+h3 {
+    color:dimgrey
+}

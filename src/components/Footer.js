@@ -2,7 +2,7 @@ export default function Footer (props) {
     return (
         <div>
           <nav>
-            <ul>
+            <ul className="footer-ul">
                 <li>Home</li>
                 <li>Women's</li>
                 <li>Men's</li>
